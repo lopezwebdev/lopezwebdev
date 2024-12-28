@@ -1,7 +1,7 @@
 - 👋 Hi there
 - 🌱 I'm currently expanding my skills by learning Vue, React, and Python
 - 💞️ I’m open to collaborating on full-stack projects of any kind
-- 📫 How to reach me:hello@lopezesteban.me
+- 📫 How to reach me: hello@lopezesteban.me
 
 
 <!---
