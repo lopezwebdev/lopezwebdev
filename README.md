@@ -1,5 +1,5 @@
 - 👋 Hi there
-- 🌱 I'm currently expanding my skills by learning Vue, React, and Python
+- 🌱 Currently expanding my expertise in Python, JavaScript, React, Node.js, and more
 - 💞️ I’m open to collaborating on full-stack projects of any kind
 - 📫 : Let`s connect: <a href="https://www.linkedin.com/in/esteban-lopez-webdev/">Linkedin</a> | <a href="mailto:hello@lopezesteban.me">Email</a> |
 
