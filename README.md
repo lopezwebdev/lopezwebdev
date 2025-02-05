@@ -1,10 +1,26 @@
-- 👋 Hi there
-- 🌱 Currently expanding my expertise in Solidity, Python, JavaScript, React, Node.js, and more
-- 💞️ I’m open to collaborating on full-stack projects of any kind
-- 📫 : Let`s connect: <a href="https://www.linkedin.com/in/esteban-lopez-webdev/">Linkedin</a> | <a href="mailto:hello@lopezesteban.me">Email</a> |
-- 🚀 Portfolio: <a href="http://lopezesteban.me/portfolio/">Visit my Portfolio</a>
+👋 Hi there, I'm Esteban Lopez!
+🚀 Full-Stack Developer | Blockchain Enthusiast | UI/UX Expert
 
-<!---
-lopezwebdev/lopezwebdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+🌱 Currently expanding my expertise in:
+Swift | Solidity | Python | JavaScript | React | Vue | Node.js | and more!
+
+💞️ Open to collaborating on:
+
+Full-stack web applications
+Blockchain & smart contract development
+UI/UX-driven interactive experiences
+🔧 Tech Stack:
+
+
+
+
+
+
+📫 Let's Connect
+🔗 LinkedIn | 📧 Email
+
+🚀 Portfolio: Visit my Portfolio
+
+💡 "Building scalable applications, crafting seamless experiences, and pushing the boundaries of web & blockchain technologies!"
+
