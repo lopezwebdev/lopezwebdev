@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Esteban Lopez!  
 
-🚀 **Full-Stack Developer | Blockchain Enthusiast | UI/UX Expert**  
+🚀 **Full-Stack Developer | AI & Blockchain Enthusiast | Hackathon Builder | UI/UX Expert**  
 
 ## About Me  
 🌱 **Currently expanding my expertise in:**  
