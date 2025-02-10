@@ -25,6 +25,7 @@ Participated in the **MeltingHack AI Agent Hackathon** at Le Wagon Tokyo, where 
 ---
 
 ## 🔧 Tech Stack  
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-008080?style=flat&logo=openai&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
