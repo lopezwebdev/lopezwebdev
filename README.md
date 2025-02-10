@@ -4,7 +4,7 @@
 
 ## About Me  
 🌱 **Currently expanding my expertise in:**  
-AI |Swift | Solidity | Python | JavaScript | React | Vue | Node.js | and more!  
+AI | Swift | Solidity | Python | JavaScript | React | Vue | Node.js | and more!  
 
 💞️ **Open to collaborating on:**  
 - Full-stack web applications  
