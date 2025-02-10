@@ -17,7 +17,7 @@ AI | Swift | Solidity | Python | JavaScript | React | Vue | Node.js | and more!
 ## 🏆 Hackathon Projects  
 
 ### 🚀 AI Agent 1-Day Hackathon (Feb 9, 2025)  
-Participated in the **MeltingHack AI Agent Hackathon** at Le Wagon Tokyo, where my team of three built and deployed a **simple AI chatbot** in just **4 hours**. I worked as one of the two **backend developers**, collaborating with an industry professional with **6 years of experience**.  
+Participated in the **MeltingHack AI Agent Hackathon** at Le Wagon Tokyo, where my team of three built and deployed an ** AI chatbot** in just **4 hours**. I worked as one of the two **backend developers**, collaborating with an industry professional with **6 years of experience**.  
 
 🛠 **Tech Stack:** JavaScript | React | Tailwind | OpenAI  
 🔗 [GitHub Repository](https://github.com/lopezwebdev/team6)  
