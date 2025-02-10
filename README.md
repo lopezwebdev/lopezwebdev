@@ -38,6 +38,6 @@ Participated in the **MeltingHack AI Agent Hackathon** at Le Wagon Tokyo, where 
 ## 📫 Let's Connect  
 🔗 **[LinkedIn](https://www.linkedin.com/in/esteban-lopez-webdev/)** | 📧 **[Email](mailto:hello@lopezesteban.me)**  
 
-💡 *"Building scalable applications, crafting seamless experiences, and pushing the boundaries of web & blockchain technologies!"*  
+💡 *"Building scalable AI-driven applications, optimizing user experiences, and pushing the boundaries of web innovation!"*  
 
 
