@@ -7,7 +7,8 @@
 AI | Swift | Solidity | Python | JavaScript | React | Vue | Node.js | and more!  
 
 💞️ **Open to collaborating on:**  
-- Full-stack web applications  
+- Full-stack web applications
+- AI-powered solutions & chatbot development
 - Blockchain & smart contract development  
 - UI/UX-driven interactive experiences  
 
