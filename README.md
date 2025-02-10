@@ -1,17 +1,29 @@
 # 👋 Hi there, I'm Esteban Lopez!  
 
-🚀 <b>Full-Stack Developer | Blockchain Enthusiast | UI/UX Expert</b>  
+🚀 **Full-Stack Developer | Blockchain Enthusiast | UI/UX Expert**  
 
 ## About Me  
-🌱 <b>Currently expanding my expertise in:</b>  
+🌱 **Currently expanding my expertise in:**  
 Swift | Solidity | Python | JavaScript | React | Vue | Node.js | and more!  
 
-💞️ <b>Open to collaborating on:</b>  
+💞️ **Open to collaborating on:**  
 - Full-stack web applications  
 - Blockchain & smart contract development  
 - UI/UX-driven interactive experiences  
 
-🔧 <b>Tech Stack:</b>  
+---
+
+## 🏆 Hackathon Projects  
+
+### 🚀 AI Agent 1-Day Hackathon (Feb 9, 2025)  
+Participated in the **MeltingHack AI Agent Hackathon** at Le Wagon Tokyo, where my team of three built and deployed a **simple AI chatbot** in just **4 hours**. I worked as one of the two **backend developers**, collaborating with an industry professional with **6 years of experience**.  
+
+🛠 **Tech Stack:** JavaScript | React | Tailwind | OpenAI  
+🔗 [GitHub Repository](https://github.com/lopezwebdev/team6)  
+
+---
+
+## 🔧 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
@@ -19,11 +31,13 @@ Swift | Solidity | Python | JavaScript | React | Vue | Node.js | and more!
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)  
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)  
 
-## 📫 <b>Let's Connect</b>  
-🔗 <b><a href="https://www.linkedin.com/in/esteban-lopez-webdev/">LinkedIn</a></b> | 📧 <b><a href="mailto:hello@lopezesteban.me">Email</a></b>  
+---
 
-🚀 <b>Portfolio:</b> <a href="http://lopezesteban.me/portfolio/">Visit my Portfolio</a>  
+## 📫 Let's Connect  
+🔗 **[LinkedIn](https://www.linkedin.com/in/esteban-lopez-webdev/)** | 📧 **[Email](mailto:hello@lopezesteban.me)**  
 
-💡 <b>"Building scalable applications, crafting seamless experiences, and pushing the boundaries of web & blockchain technologies!"</b>  
+🚀 **Portfolio:** [Visit my Portfolio](http://lopezesteban.me/portfolio/)  
+
+💡 *"Building scalable applications, crafting seamless experiences, and pushing the boundaries of web & blockchain technologies!"*  
 
 
