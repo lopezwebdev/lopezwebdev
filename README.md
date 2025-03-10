@@ -17,7 +17,7 @@ AI | Swift | Solidity | Python | JavaScript | React | Vue | Node.js | and more!
 ## My 3D Portfolio  
 
 I’m happy to share my 3D Portfolio project, that I am still working on. 
-Check it out here:<a href="https://lopezesteban.netlify.app/" target="_blank">3D Portfolio</a>
+Check it out here: <a href="https://lopezesteban.netlify.app/" target="_blank">3D Portfolio</a>
 
 ---
 
