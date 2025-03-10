@@ -14,6 +14,13 @@ AI | Swift | Solidity | Python | JavaScript | React | Vue | Node.js | and more!
 
 ---
 
+## My 3D Portfolio  
+
+I’m happy to share my 3D Portfolio project, that I am still working on. 
+Check it out here: https://lopezesteban.netlify.app/
+
+---
+
 ## 🏆 Hackathon Projects  
 
 ### 🚀 AI Agent 1-Day Hackathon (Feb 9, 2025)  
